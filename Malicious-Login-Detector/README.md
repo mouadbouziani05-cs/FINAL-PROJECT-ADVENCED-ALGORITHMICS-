@@ -33,9 +33,7 @@ Malicious-Login-Detector/
 │── login.csv
 │── README.md
 │── LICENSE
-│── .gitignore
-│── rapport/
-│     └── Malicious Login Detector_rapport.pdf
+│── Malicious Login Detector_rapport.pdf
 ```
 
 ## Compilation
